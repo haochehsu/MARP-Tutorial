@@ -27,8 +27,8 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ## About this template
 
-- [Markdown source code of this template]()
-- [MARP-Tutorial Github Repository]()
+- [Markdown source code of this template](https://github.com/howardhsumail/MARP-Tutorial/raw/main/template.md)
+- [MARP-Tutorial Github Repository](https://github.com/howardhsumail/MARP-Tutorial.git)
 - Please [contact](mailto:howardhsumail@gmail.com) the [author](https://www.haochehsu.com) for help, comments, error reporting.
 
 ---
