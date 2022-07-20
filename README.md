@@ -8,4 +8,4 @@ This is a tutorial on utilizing the [MARP extension](https://github.com/marp-tea
 
 1. Download VScode: [Link](https://code.visualstudio.com/)
 
-2. Install Extension: `Marp for VS Code`
+2. Install VScode Extension: `Marp for VS Code`
